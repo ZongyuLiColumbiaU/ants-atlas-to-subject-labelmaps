@@ -24,6 +24,7 @@ Quick check:
 which antsApplyTransforms
 which antsRegistration
 ls /path/to/ANTs/Scripts/buildtemplateparallel.sh
+```
 
 ## Workflow overview (recommended)
 
